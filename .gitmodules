@@ -1,0 +1,3 @@
+[submodule "textrep"]
+	path = textrep
+	url = https://github.com/Nikita19329/textrep
